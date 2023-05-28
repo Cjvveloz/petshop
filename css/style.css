@@ -1,0 +1,39 @@
+
+body{
+    font-family: 'roboto', sans-serif;
+
+} 
+
+    .pencabezado{
+        
+        color: white;
+        background: #222222;
+    }
+    .nav{
+        color: white;
+        background: #F0A83E;
+        list-style: none;
+    }
+    .principal{
+        background-image: url("../img/bowl.png");
+        height: 400px;
+       
+    }
+    .precio{
+        color: yellow;
+    }
+    .footer{
+        background-color: #3C2313;
+        
+    }
+    .piedepagina{
+        color: white;
+    }
+    .titulofooter{
+        color: white;
+    }
+    .textofinal{
+        text-align: center;
+        color: white;
+        background-color: #F0A83E;
+    }
